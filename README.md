@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**levanilekvinadze24/levanilekvinadze24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science major at Kutaisi International University.  
+I am passionate about software development and problem-solving.
 
-Here are some ideas to get you started:
+### Skills
+- Java
+- SQL
+- OCaml
+- C#
+- And more...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+Feel free to check out some of my projects below in my repositories! 🚀  
+I am always working to learn new technologies and improve my skills.
+
+---
+
+Thanks for visiting my profile! 😊
