@@ -9,6 +9,7 @@ I am passionate about software development and problem-solving.
 - Java
 - SQL, MySQL
 - OCaml
+- React
 - And more...
 
 ### Projects
